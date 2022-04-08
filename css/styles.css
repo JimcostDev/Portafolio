@@ -223,19 +223,19 @@ footer .redes-sociales .contenedor a {
   border-radius: 3px;
 }
 footer .redes-sociales .contenedor .twitter:hover {
-  background: #55acee;
+  background: #1da1f2;
 }
 footer .redes-sociales .contenedor .facebook:hover {
   background: #3b5998;
 }
-footer .redes-sociales .contenedor .youtube:hover {
-  background: #cd201f;
+footer .redes-sociales .contenedor .linkedin:hover {
+  background: #00a0dc;
 }
 footer .redes-sociales .contenedor .github:hover {
   background: #666666;
 }
 footer .redes-sociales .contenedor .instagram:hover {
-  background: #3f729b;
+  background: #e1306c;
 }
 
 @media screen and (max-width: 800px) {
